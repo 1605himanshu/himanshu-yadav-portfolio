@@ -214,7 +214,7 @@ This internship strengthened my proficiency in web development, API integration,
       id: 0,
       title: "Real Time Chat App ",
       description:
-        "I developed a real-time chat application using the MERN stack with Socket.IO for instant messaging and live user presence. The app includes secure JWT authentication, persistent login, profile management, Zustand for state management, and Axios for API communication. Deployed on Render with optimized frontend-backend integration and environment variable management.",
+        "Developed a real-time MERN stack chat app with Socket.IO, JWT authentication, persistent login, profile management, Zustand state management, and Axios. Deployed on Render with optimized frontend-backend integration.",
       image: image1,
       tags: [ "JavaScript", "React JS", "Tailwind CSS", "Node JS","Express.js", "MongoDB", "Socket.IO"],
       github: "https://github.com/1605himanshu/fullstack-chat-app",
@@ -224,12 +224,12 @@ This internship strengthened my proficiency in web development, API integration,
       id: 1,
       title: "Employee Management System",
       description: `
-I developed a dynamic Employee Management System using React and Tailwind CSS with a clean, responsive UI. The app supports full CRUD operations and user authentication for login/logout.
-
-For demo/testing, login credentials are:
-
-Admin: admin@me.com | Password: 123  
-Employees: e@e.com, employee2@example.com, employee3@example.com, employee4@example.com | Password: 123
+Developed a dynamic Employee Management System using React and Tailwind CSS with responsive UI, full CRUD operations, and user authentication. Demo login: Admin – admin@me.com
+ / 123; Employees – e@e.com
+, employee2@example.com
+, employee3@example.com
+, employee4@example.com
+ / 123.
 
 `,
 
